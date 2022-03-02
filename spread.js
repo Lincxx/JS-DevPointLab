@@ -22,4 +22,4 @@ newPerson = {...person1, hairColor:"brown"}
 
 console.log(person1);
 console.log(newPerson);
-https://youtu.be/_-ZCXjJX3kc?t=2368
+
